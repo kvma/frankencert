@@ -52,7 +52,7 @@ certificate validation code.
    The arguments are explained below.
 
     - `seed_certs_dir`: Frankencert generator needs a set of seed certificates. 
-       Any SSL cert in PEM fromat can act as a seed cert. `seed_certs_dir`
+       Any SSL cert in PEM format can act as a seed cert. `seed_certs_dir`
        can be any directory containing the seed certs stored as PEM files.
    
        You can either use tools like ZMap (https://zmap.io/) to collect SSL seed 
